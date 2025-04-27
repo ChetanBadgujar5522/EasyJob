@@ -23,3 +23,11 @@
 
 ## 📁 Project Output
 
+### 1 Welcome Page
+![Welcome Page](image1.png)
+
+### 2 Job Posts
+![Job Posts](image3.png)
+
+### 3 Admin-[Recruiters + Job Seekers]
+![Admin](image6.png)
